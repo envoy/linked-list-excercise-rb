@@ -7,6 +7,8 @@ implemented.
 Not all functionality is tested and will require you to write tests to verify
 that it works.
 
+Good luck!
+
 ## Getting Started
 
 1. Install gems. `bundle install`
